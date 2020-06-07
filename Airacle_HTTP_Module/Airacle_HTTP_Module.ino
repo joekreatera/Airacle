@@ -7,7 +7,7 @@
 SoftwareSerial s(D6, D5); // (Rx, Tx)
 
 //Nombre de la red
-const char* nombre = "INFINITUM7011_2.4";
+const char* nombre = "NETWORK11_2.4";
 
 //Password
 const char* password = "***********";
