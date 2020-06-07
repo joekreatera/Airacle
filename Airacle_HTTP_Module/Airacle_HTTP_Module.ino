@@ -10,7 +10,7 @@ SoftwareSerial s(D6, D5); // (Rx, Tx)
 const char* nombre = "INFINITUM7011_2.4";
 
 //Password
-const char* password = "f7DUT5MsDG";
+const char* password = "***********";
 
 //Puerto (dejar en 80 por defecto)
 //WiFiServer server(80);
